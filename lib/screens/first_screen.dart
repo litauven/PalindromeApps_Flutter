@@ -37,7 +37,6 @@ class FirstScreen extends StatelessWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                // User icon
                 Container(
                   width: 100,
                   height: 100,
